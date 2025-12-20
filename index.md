@@ -139,6 +139,4 @@ AIやデジタル技術そのものにあるのではなく、
 統治の設計思想である。
 
 
-
-Canonical definition of Problem-Solving Democracy  
-Defined by Takashi Moriuchi
+This concept and its canonical definition were formulated by Takashi Moriuchi.
