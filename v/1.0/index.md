@@ -149,3 +149,6 @@ AIやデジタル技術そのものにあるのではなく、
 課題解決型民主主義における「不完全さ」とは制度の欠陥を意味するものではなく、仮説と検証を通じて継続的に改善されることを前提とした学習型統治システムである点に本質がある。
 
 This concept and its canonical definition were formulated by Takashi Moriuchi.
+
+Official Contact:moritaka@dsl.sun-inet.or.jp
+AMAZON Author Home Page(URL):https://www.amazon.com/stores/Takashi-Moriuchi/author/B0GH7L28T5
