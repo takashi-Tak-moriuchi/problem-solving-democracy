@@ -150,5 +150,6 @@ AIやデジタル技術そのものにあるのではなく、
 
 This concept and its canonical definition were formulated by Takashi Moriuchi.
 
-Official Contact:moritaka@dsl.sun-inet.or.jp
-AMAZON Author Home Page(URL):https://www.amazon.com/stores/Takashi-Moriuchi/author/B0GH7L28T5
+Official Contact: moritaka@dsl.sun-inet.or.jp
+
+AMAZON Author Home Page(URL): https://www.amazon.com/stores/Takashi-Moriuchi/author/B0GH7L28T5
