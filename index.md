@@ -3,11 +3,13 @@ title: 課題解決型民主主義 公式定義 v1.1
 ---
 ## Official definition (public links)
 
+外部参照（引用）する場合は **v1.1** をお使いください（内容固定）。
+
 | Use | Link |
 |---|---|
-| **Latest (always updated)** | **https://takashi-tak-moriuchi.github.io/problem-solving-democracy/** |
-| **Cite / reference (immutable)** | **https://takashi-tak-moriuchi.github.io/problem-solving-democracy/v/1.1/** |
-| Archive (immutable) | https://takashi-tak-moriuchi.github.io/problem-solving-democracy/v/1.0/ |
+| **Latest (always updated)** | [Open latest](/problem-solving-democracy/) |
+| **Cite / reference (immutable)** | [Open v1.1](/problem-solving-democracy/v/1.1/) |
+| Archive (immutable) | [Open v1.0](/problem-solving-democracy/v/1.0/) |
 
 > Rule: “Latest” may change. Anything under `/v/` is immutable (do not edit).
 
