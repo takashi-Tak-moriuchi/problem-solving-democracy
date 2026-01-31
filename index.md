@@ -1,3 +1,6 @@
+---
+title: 課題解決型民主主義 公式定義 v1.1
+---
 ## Official definition (public links)
 
 - Latest (always updated): /
@@ -7,8 +10,6 @@
 > Rule: “Latest” is updated when the definition evolves.  
 > Past versions under /v/ are immutable (do not edit).
 
----
-title: 課題解決型民主主義 公式定義 v1.1
 ---
 
 # Official / Canonical Definition
