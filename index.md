@@ -1,9 +1,11 @@
 ---
 title: 課題解決型民主主義 公式定義 v1.1
 ---
+
 ## Official definition (public links)
 
-外部参照（引用）する場合は **v1.1** をお使いください（内容固定）。
+- 読者向け（常に最新版）：**Latest** を参照してください（表現の明確化・補足により更新される可能性があります）。
+- 学術引用・外部参照（内容固定）：**/v/** 配下（immutable）を使用してください。
 
 | Use | Link |
 |---|---|
@@ -11,7 +13,7 @@ title: 課題解決型民主主義 公式定義 v1.1
 | **Cite / reference (immutable)** | [Open v1.1](/problem-solving-democracy/v/1.1/) |
 | Archive (immutable) | [Open v1.0](/problem-solving-democracy/v/1.0/) |
 
-> Rule: “Latest” may change. Anything under `/v/` is immutable (do not edit).
+> Rule: “Latest” may change (clarifications). Anything under `/v/` is immutable (do not edit).
 
 ---
 
@@ -20,6 +22,18 @@ title: 課題解決型民主主義 公式定義 v1.1
 Author: Takashi Moriuchi  
 Last updated: 2026-01-31
 
+## Governing text notice (JP governing / EN official translation)
+
+- 日本語が原典（公式基準 / governing text）です。  
+- 英語は公式翻訳（official translation）です。  
+- 解釈に齟齬が生じる場合は、日本語原典を優先します。
+
+The Japanese text is the governing (canonical) definition of PSD.  
+This English text is the official translation. In case of any discrepancy, the Japanese original prevails.
+
+---
+
+## 日本語（公式定義・原典 / Governing Text）
 
 課題解決型民主主義とは何か【公式定義】2026/1/31改訂版 森内 孝
 
@@ -97,7 +111,7 @@ PSD において政策は固定的決定ではなく、実行→検証→修正�
 
 この可視化の目的は説明責任にとどまらず、仮説→実行→検証→修正が回るPDCA／OODAサイクルを、社会全体で共有することにある。
 
-要件4：国民の「選択」を、印象から構造判断へ進化させる（選挙接続） 民主主義では主権者は国民であり、最終的な意思決定は選挙で行われる。したがって、国民が適切に選択するためには、課題の構造と政策効果が共有されている必要がある。
+要件4：国民の「選択」を、印象から構造判断へ進化させる（選挙接続） 民主主権では主権者は国民であり、最終的な意思決定は選挙で行われる。したがって、国民が適切に選択するためには、課題の構造と政策効果が共有されている必要がある。
 
 PSDでは、選挙において国民が
 
@@ -142,27 +156,155 @@ PSDは、 国家レベルの政策運用において、 評価・改善・継続
 補足（Notes / Assumptions）
 PSDは、国民一人ひとりがすべての因果構造や専門情報を理解することを前提とするものではない。 本モデルが変えるのは、政治制度そのものではなく、政治と社会の間で共有される「情報の質と構造」である。課題の因果構造、KPI、政策仮説、検証結果が公開・共有されることで、マスメディア、専門家、研究機関、シンクタンクなどがそれらを咀嚼・検証・翻訳し、国民に伝える役割を自然に担うようになる。 これにより、メディアや知識層には説明力・分析力を巡る競争が生まれ、機能しない主体は淘汰され、機能する主体が評価される環境が形成される。 PSDにおける「不完全さ」とは制度の欠陥を意味するものではなく、仮説と検証を通じて継続的に改善されることを前提とした学習型統治システムである点に本質がある。
 
+---
+
+## English (Official Translation)
+
+What is Problem-Solving Democracy? (Official Definition)  
+Revised on 2026-01-31 (Takashi Moriuchi)
+
+Official / Canonical Definition of Problem-Solving Democracy (PSD)
+
+### 1) Official definition (definition as an operational specification)
+
+Problem-Solving Democracy (PSD) is a governance model that assumes popular sovereignty and representative democracy, and treats social problems not as slogans but as causal structures (chains from cause to effect). Under appropriate principles of information disclosure that take national interest and public value into account, PSD continuously shares the structure, hypotheses, progress, and results with the public. Political parties, the legislature, the administration, experts, local communities, and citizens then keep “competition” and “collaboration” running simultaneously under a division of roles—improving policies while producing measurable results.
+
+This model presupposes human irrationality, organizational rigidity, and cultural diversity—and does not aim to change them.
+
+Because responsibility arguments that attribute causality to “people,” “organizations,” or “culture” tend to deepen conflict and stall deliberation, PSD treats problems consistently as matters of “institutions and processes.”
+
+The aim of PSD is to transform democracy from “a system that cannot decide” into “a system that can decide.” For that purpose, PSD emphasizes improving decision-making processes and institutional design, rather than “improving people.”
+
+A distinctive feature of PSD is that it seeks a mode of governance that can produce results even with imperfectly rational human beings.
+
+Here, “problem-solving” does not mean passing a single bill or allocating a one-time budget. It means a measurable state change (improvement) captured by KPIs occurs, and that improvement continues with reproducible durability.
+
+This concept does not replace existing democratic institutions or policy-making processes. Rather, it aims to expand the possibility that policy effectiveness can improve under the same institutions by reorganizing the already-existing stages of policy design, execution, and evaluation from the perspective of shared causal structure and testability.
+
+In a narrow sense, PSD refers to an operational mode of democracy: while keeping existing institutions as given, it treats policies as hypotheses and embeds a learning cycle—execute → verify → revise—as a standard operating rhythm.
+
+In a broad sense, PSD refers to democracy itself after that operational mode becomes society’s standard operating rhythm—so that democracy can “decide and learn,” and continuously improve social problems over time.
+
+To realize this, PSD requires the following elements.
+
+#### Requirement 1: Decompose problems into a form that can be made electorally contestable (structuring)
+
+Long-horizon and universal problems (e.g., low birthrate, public finance, pensions, industrial structure) are complex. As-is, they cannot be shared as contestable issues and are difficult to choose between in elections. Therefore, PSD organizes a problem into:
+
+- Primary KPIs (outcome indicators)  
+- Causal structure (hierarchies of drivers and their interactions)  
+- Intervention points (where policy can work)  
+- Time constants (lags until effects appear)  
+- Trade-offs (side effects and alternatives)
+
+and converts it into a granularity that citizens can understand and choose among.
+
+This structuring is not intended to justify a particular party or policy. It is intended to build a common platform on which parties can be compared. When the same problem structure is shared, differences across parties—priorities, intervention points, and policy packages—become clearly comparable as value judgments.
+
+#### Requirement 2: Treat policy as a hypothesis and make it testable (management)
+
+In PSD, policy is not a claim of “rightness.” It is designed as an intervention based on a causal hypothesis.
+
+A policy in PSD is not a fixed decision; it is a “hypothesis” premised on execute → verify → revise. Democracy is operated as a process that keeps this learning cycle running.
+
+Before execution, PSD makes explicit:
+
+- What is to be changed (objective)  
+- Which driver will be targeted (intervention point in the structure)  
+- What movement, and how much, constitutes success (KPIs)  
+- When evaluation will occur (review cycle)  
+- What will be changed if it does not work (redesign conditions)
+
+After execution, outcomes are verified with data and the system is operated on the premise of improvement (redesign).
+
+Deliberation is centered not on “who said it,” but on “what produces results.” It proceeds based on outcomes, data, and causal structure—not mere opinions.
+
+The KPIs used here do not impose the same numerical targets on every party. “Common KPIs” are a shared language—shared evaluation items and viewpoints—so that policy effectiveness can be assessed comparably over time. Numerical levels and priorities remain subject to each party’s judgment. KPI items themselves are also subject to continuous revision based on verification and learning.
+
+#### Requirement 3: Publish and share progress and effects to increase society’s learning speed (dashboarding)
+
+The causal structure of the problem and the progress of policy are published and continuously updated as a KPI dashboard—not as internal documents of a particular organization.
+
+By visualizing:
+
+- Results (changes in KPIs)  
+- Progress (execution rate, delays, redesign items)  
+- Evidence (hypotheses and data)  
+- Learning (what worked and what did not)
+
+policy no longer becomes “say-and-forget.” Actions by the administration, localities, firms, and citizens are more easily aligned on a shared structural understanding.
+
+The purpose of this visualization is not limited to accountability. It is to share, at the level of society, a PDCA/OODA learning cycle in which hypothesis → execution → verification → revision keeps turning.
+
+#### Requirement 4: Evolve citizens’ choices from impressions to structural judgment (election linkage)
+
+In democracy, the sovereign is the people, and final decisions are made through elections. Therefore, for citizens to choose appropriately, the structure of the problem and the effects of policy must be shared.
+
+In PSD, citizens can confirm in elections:
+
+- “Which problem and which drivers were targeted”  
+- “What improved as a result”  
+- “How the approach was corrected when hypotheses failed” (quality of learning)
+
+As a result, criteria for choice shift from popularity, impressions, and conflict axes to structure, outcomes, and improvement capability.
+
+#### Requirement 5: Institutionalize the coexistence of “competition” and “collaboration” among parties
+
+In PSD, political parties have two roles:
+
+- Competition: compete in priorities, policy packages, and the design of intervention points  
+- Collaboration: share the problem structure, data, and evaluation framework, and continue improvement
+
+Long-horizon and universal problems do not conclude with a single change of government. Without collaboration, sustained results are difficult. Yet without competition, options disappear and the sovereign’s basis for judgment deteriorates. Therefore, competition and collaboration are both necessary at the same time, and their coexistence is the core of institutional design.
+
+### 2) Clarifications to prevent misunderstanding (what PSD is not)
+
+#### “Problem-solving” is not the same as “consensus-building”
+
+Consensus-building and deliberation can be effective means. However, the core of PSD is not consensus itself.
+
+The core is to keep an improvement cycle running as democracy’s standard operating rhythm:
+
+Shared causal structure → execution based on hypotheses → verification → redesign
+
+Consensus may form as a result, but PSD does not make consensus the goal. That is the essential difference.
+
+#### Not an “imported foreign model”
+
+Cases such as those of Nordic countries or the Netherlands can be informative, but PSD is not a copy of any specific national model.
+
+PSD is an attempt to redesign techniques long used in corporate management and project management—structuring, KPIs, PDCA/OODA—into forms that can operate within the framework of popular sovereignty and representative democracy.
+
+#### Not a general theory of “educational PBL,” “civic participation DX,” or “AI-enabled democracy”
+
+PBL in education, civic-participation DX, and the use of AI or digital technologies can also be effective means within a problem-solving democracy. PSD does not deny the use of these technologies and mechanisms.
+
+However, PSD’s core is not AI or digital technology itself. Even with such tools, the goal is to realize a condition in which citizens can understand the structure of problems and the causal relationships of policies, and can exercise choice with both legitimacy and effectiveness.
+
+In other words, AI does not replace decision-making. Under popular sovereignty, it is positioned as an assistive “guideline” that makes the structure, hypotheses, and results needed for judgment visible.
+
+PSD is a governance design philosophy that places at its center the institutional realization of a condition in which citizens can judge as agents—including evaluation, improvement, continuity, and electoral selection—in national-level policy operations.
+
+PSD is not a system that restricts participation based on assumed citizen capability. By visualizing and sharing the causal structure of social problems and policy effects, PSD assumes as a design premise that the information environment—citizens, mass media, commentary, education, SNS, and others—will change, and that conditions will be formed under which citizens can exercise choice based on structure and outcomes.
+
+### Notes / Assumptions
+
+PSD does not assume that every individual citizen must understand all causal structures or all specialized information.
+
+What this model changes is not the political system itself, but the “quality and structure of information” shared between politics and society.
+
+As causal structures, KPIs, policy hypotheses, and verification results are published and shared, mass media, experts, research institutions, think tanks, and others naturally take on the role of digesting, verifying, translating, and communicating them to the public.
+
+This creates competition among media and knowledge communities over explanatory and analytical power. Actors that do not function are screened out, and actors that do function are evaluated—forming an environment in which competence is rewarded.
+
+In PSD, “imperfection” does not mean an institutional defect. Its essence is that it is a learning-based governance system premised on continuous improvement through hypotheses and verification.
+
+---
+
 This concept and its canonical definition were formulated by Takashi Moriuchi.
 
-Assets
-3
-Source code
-(zip)
-2 weeks ago
-Source code
-(tar.gz)
-2 weeks ago
-Release attestation
-(json)
-2 weeks ago
-Problem-Solving Democracy
-2 weeks ago
-@takashi-Tak-moriuchi takashi-Tak-moriuchi
- Immutablerelease. Only release title and notes can be modified.
- v1.0
- 56f1dcc
-Problem-Solving Democracy
-Official / Canonical Definition
+---
 
-Author: Takashi Moriuchi
-Last updated: 2026-1-31
+## Change log
+- v1.1 (2026-01-31): Canonical definition revised (JP governing + EN official translation published as a paired set).
+- v1.0: Archived snapshot (immutable).
