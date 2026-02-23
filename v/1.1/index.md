@@ -2,6 +2,9 @@
 title: 課題解決型民主主義 公式定義 v1.1
 ---
 
+> Immutable snapshot (do not edit): This page is a fixed record for citation.
+> Latest (always updated): /problem-solving-democracy/
+
 # Official / Canonical Definition
 
 Author: Takashi Moriuchi  
